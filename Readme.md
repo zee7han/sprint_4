@@ -94,17 +94,17 @@ After this sprint you will be expert in the following:
  ## Course Content
 
  ### Week 1
- **DAY 1:** Basics of the react.
- **DAY 2:** About JSX and fundamentals of react.
- **DAY 3:** Details of State, Props, LifeCycle methods and reusable components.
- **DAY 4:** Event handling & Event propogation.
- **DAY 5:** React DOM, portal and refs.
- **DAY 6:** React router, bundling & deployment.
- **DAY 7:** Error Handling, SEO and third party integration.
+ **DAY 1:** Basics of the react.&nbsp;
+ **DAY 2:** About JSX and fundamentals of react.&nbsp;
+ **DAY 3:** Details of State, Props, LifeCycle methods and reusable components.&nbsp;
+ **DAY 4:** Event handling & Event propogation.&nbsp;
+ **DAY 5:** React DOM, portal and refs.&nbsp;
+ **DAY 6:** React router, bundling & deployment.&nbsp;
+ **DAY 7:** Error Handling, SEO and third party integration.&nbsp;
 
  ### Week 2
- **Mini Project**
- **Major Project**
+ **Mini Project**&nbsp;
+ **Major Project**&nbsp;
 
  ## References for the courses
  - [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
