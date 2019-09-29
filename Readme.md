@@ -36,15 +36,11 @@ After this sprint you will get the answers of the following:
 - How the bundle your react application?
 - How to integrate the third party services into your application?
 
-<img src="assets/react_component_basic_lifecycle.png"
-     alt="React Component Lifecycle"
-     style="float: left; margin-right: 10px;" />
+![React Lifecycle](assets/react_component_basic_lifecycle.png)
 
 ### What you can build?
 After this, you can build a highly responsive and dynamic application using the react custom and reusable components. One of the clones of the dynamic chat page is shown below.
 
-<img src="assets/dynamic_website.png"
-     alt="Dynamic Website Image"
-     style="float: left; margin-right: 10px;" />
+![Dynamic page clone](assets/dynamic_website.png)
 
 ### Learning Outcomes
